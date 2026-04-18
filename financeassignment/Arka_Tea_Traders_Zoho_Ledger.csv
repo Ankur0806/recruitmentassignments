@@ -1,0 +1,55 @@
+Arka Tea Traders Pvt Ltd
+Account Transactions
+HDFC Current Account
+Basis: Accrual
+From 01/01/2026 To 31/03/2026
+
+Date,Account,Transaction Details,Transaction Type,Transaction#,Reference#,Debit,Credit,Balance
+01/01/2026,HDFC Current Account,Opening Balance,,,,,,"240,000.00 Dr"
+04/01/2026,HDFC Current Account,Spice Garden Restaurants - NEFT receipt,Customer Payment,CP-2026/001,CP-2026/001,"85,400.00",,"325,400.00 Dr"
+05/01/2026,HDFC Current Account,Office Rent - Ravi Menon (SI),Journal,J-2026/011,J-2026/011,,"45,000.00","280,400.00 Dr"
+07/01/2026,HDFC Current Account,Nilgiris Tea Estate Pvt Ltd - RTGS,Vendor Payment,VP-2026/002,VP-2026/002,,"185,000.00","95,400.00 Dr"
+10/01/2026,HDFC Current Account,Hill View Resorts Pvt Ltd - NEFT receipt,Customer Payment,CP-2026/003,CP-2026/003,"68,500.00",,"163,900.00 Dr"
+11/01/2026,HDFC Current Account,Mahadev Provisions - Cheque deposit,Customer Payment,CP-2026/004,CP-2026/004,"42,600.00",,"206,500.00 Dr"
+14/01/2026,HDFC Current Account,Packaging Solutions India Pvt Ltd - NEFT,Vendor Payment,VP-2026/005,VP-2026/005,,"32,400.00","174,100.00 Dr"
+15/01/2026,HDFC Current Account,KSEB - Electricity Bill (Dec),Vendor Payment,VP-2026/006,VP-2026/006,,"8,240.00","165,860.00 Dr"
+18/01/2026,HDFC Current Account,Coastal Hospitality Ltd - NEFT receipt,Customer Payment,CP-2026/007,CP-2026/007,"128,750.00",,"294,610.00 Dr"
+20/01/2026,HDFC Current Account,ACT Fibernet - Internet & Phone,Vendor Payment,VP-2026/008,VP-2026/008,,"4,500.00","290,110.00 Dr"
+20/01/2026,HDFC Current Account,GST Payment - December 2025,Journal,J-2026/015,J-2026/015,,"47,500.00","242,610.00 Dr"
+21/01/2026,HDFC Current Account,ACT Fibernet - Internet & Phone,Vendor Payment,VP-2026/009,VP-2026/009,,"4,500.00","238,110.00 Dr"
+22/01/2026,HDFC Current Account,Royal Freight Logistics - Cheque,Vendor Payment,VP-2026/010,VP-2026/010,,"28,700.00","209,410.00 Dr"
+24/01/2026,HDFC Current Account,Blue Lotus Cafe - UPI receipt,Customer Payment,CP-2026/011,CP-2026/011,"19,400.00",,"228,810.00 Dr"
+29/01/2026,HDFC Current Account,Retail Bazaar Chennai - UPI,Customer Payment,CP-2026/012,CP-2026/012,"18,900.00",,"247,710.00 Dr"
+03/02/2026,HDFC Current Account,Nilgiris Tea Estate Pvt Ltd - RTGS,Vendor Payment,VP-2026/014,VP-2026/014,,"205,000.00","42,710.00 Dr"
+06/02/2026,HDFC Current Account,Green Leaf Cafe - NEFT receipt,Customer Payment,CP-2026/015,CP-2026/015,"35,200.00",,"77,910.00 Dr"
+08/02/2026,HDFC Current Account,Hill View Resorts Pvt Ltd - NEFT receipt,Customer Payment,CP-2026/016,CP-2026/016,"72,800.00",,"150,710.00 Dr"
+10/02/2026,HDFC Current Account,Assam Growers Collective - NEFT,Vendor Payment,VP-2026/017,VP-2026/017,,"140,500.00","10,210.00 Dr"
+15/02/2026,HDFC Current Account,Spice Garden Restaurants - NEFT receipt,Customer Payment,CP-2026/018,CP-2026/018,"92,800.00",,"103,010.00 Dr"
+17/02/2026,HDFC Current Account,Packaging Solutions India Pvt Ltd - NEFT,Vendor Payment,VP-2026/019,VP-2026/019,,"36,800.00","66,210.00 Dr"
+18/02/2026,HDFC Current Account,KSEB - Electricity Bill (Jan),Vendor Payment,VP-2026/021,VP-2026/021,,"9,180.00","57,030.00 Dr"
+19/02/2026,HDFC Current Account,Kaveri Retail Traders - NEFT receipt,Customer Payment,CP-2026/020,CP-2026/020,"88,600.00",,"145,630.00 Dr"
+20/02/2026,HDFC Current Account,ACT Fibernet - Internet & Phone,Vendor Payment,VP-2026/022,VP-2026/022,,"4,500.00","141,130.00 Dr"
+20/02/2026,HDFC Current Account,GST Payment - January 2026,Journal,J-2026/028,J-2026/028,,"52,800.00","88,330.00 Dr"
+22/02/2026,HDFC Current Account,Monsoon Hotels Pvt Ltd - Cheque deposit,Customer Payment,CP-2026/023,CP-2026/023,"215,300.00",,"303,630.00 Dr"
+25/02/2026,HDFC Current Account,Royal Freight Logistics - Cheque,Vendor Payment,VP-2026/024,VP-2026/024,,"31,200.00","272,430.00 Dr"
+26/02/2026,HDFC Current Account,Blue Lotus Cafe - UPI receipt,Customer Payment,CP-2026/025,CP-2026/025,"21,300.00",,"293,730.00 Dr"
+03/03/2026,HDFC Current Account,Retail Bazaar Chennai - UPI,Customer Payment,CP-2026/027,CP-2026/027,"24,650.00",,"318,380.00 Dr"
+05/03/2026,HDFC Current Account,Nilgiris Tea Estate Pvt Ltd - RTGS,Vendor Payment,VP-2026/028,VP-2026/028,,"195,800.00","122,580.00 Dr"
+05/03/2026,HDFC Current Account,Office Rent - Ravi Menon (SI),Journal,J-2026/034,J-2026/034,,"45,000.00","77,580.00 Dr"
+09/03/2026,HDFC Current Account,Kaveri Retail Traders - NEFT receipt,Customer Payment,CP-2026/029,CP-2026/029,"92,500.00",,"170,080.00 Dr"
+12/03/2026,HDFC Current Account,Mahadev Provisions - NEFT receipt,Customer Payment,CP-2026/030,CP-2026/030,"58,400.00",,"228,480.00 Dr"
+14/03/2026,HDFC Current Account,Darjeeling Highland Tea - NEFT,Vendor Payment,VP-2026/031,VP-2026/031,,"122,400.00","106,080.00 Dr"
+17/03/2026,HDFC Current Account,Hill View Resorts Pvt Ltd - NEFT receipt,Customer Payment,CP-2026/032,CP-2026/032,"78,900.00",,"184,980.00 Dr"
+19/03/2026,HDFC Current Account,KSEB - Electricity Bill (Feb),Vendor Payment,VP-2026/033,VP-2026/033,,"8,920.00","176,060.00 Dr"
+20/03/2026,HDFC Current Account,ACT Fibernet - Internet & Phone,Vendor Payment,VP-2026/034,VP-2026/034,,"4,500.00","171,560.00 Dr"
+20/03/2026,HDFC Current Account,GST Payment - February 2026,Journal,J-2026/041,J-2026/041,,"48,600.00","122,960.00 Dr"
+21/03/2026,HDFC Current Account,Coastal Hospitality Ltd - NEFT receipt,Customer Payment,CP-2026/035,CP-2026/035,"145,200.00",,"268,160.00 Dr"
+23/03/2026,HDFC Current Account,Packaging Solutions India Pvt Ltd - NEFT,Vendor Payment,VP-2026/036,VP-2026/036,,"34,600.00","233,560.00 Dr"
+25/03/2026,HDFC Current Account,Blue Lotus Cafe - UPI receipt,Customer Payment,CP-2026/037,CP-2026/037,"23,700.00",,"257,260.00 Dr"
+28/03/2026,HDFC Current Account,Darjeeling Highland Tea - Cheque,Vendor Payment,VP-2026/038,VP-2026/038,,"22,500.00","234,760.00 Dr"
+28/03/2026,HDFC Current Account,Green Leaf Cafe - UPI receipt,Customer Payment,CP-2026/039,CP-2026/039,"41,850.00",,"276,610.00 Dr"
+
+Total Debits and Credits (01/01/2026 - 31/03/2026),,,,,,"1,354,750.00","1,318,140.00",
+As On 31/03/2026,,Closing Balance,,,,,,"276,610.00 Dr"
+
+**Amount is displayed in your base currency INR
