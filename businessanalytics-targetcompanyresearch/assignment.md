@@ -107,6 +107,14 @@ This assignment simulates the core research task of the role. The output you pro
 
 ## What Makes a Company a Fit
 
+### Why This ICP
+
+DeepThought's offering is **Scientific Execution** — a Dedicated Team + Protocol that runs growth initiatives alongside a company's running business. These Federer companies already run experiments on the product side — R&D, pilots, formulations, testing. They already think scientifically about their product. Scientific Execution gives them the same structure for the business side — new markets, new revenue streams, process improvements — through sized risks, time-bound tests, and proven playbooks that transfer to their existing team.
+
+The reason we target specialty manufacturers specifically: their product rigour is real, their growth ambition is real, and they build capability in-house. They're the companies where a Dedicated Team + Protocol fits naturally — because they already understand how structured experimentation produces results. They've just never had that structure applied to how the business grows.
+
+---
+
 Evaluate each company against these 6 criteria. Not every company will score perfectly on all 6 — use your judgment.
 
 | # | Criterion | What to Look For |
@@ -116,7 +124,53 @@ Evaluate each company against these 6 criteria. Not every company will score per
 | 3 | **Differentiated** | Makes something niche or technical — not a commodity. Look for: patents, R&D centre, regulatory approvals (USFDA, EU-GMP, DSIR-recognized), "first/only/pioneer in India", proprietary products. |
 | 4 | **Technical decision-maker** | Founder or MD has a technical/scientific background. Look for: PhD, IIT/NIT/BITS/IISc alumni, ex-ISRO/DRDO, engineering pedigree, technical publications. Gen-2 leaders with formal education also count. |
 | 5 | **Growing sector** | Operating in a sector with tailwinds. Look for: PLI scheme eligibility, Make-in-India relevance, China+1 beneficiary, export markets, government support. |
-| 6 | **Active growth signals** | Company is expanding, not stagnant. Look for: hiring multiple roles, new facility announcements, capacity expansion, recent certifications, fresh website (copyright 2024-2026), active news/press section. |
+| 6 | **Active growth signals** | Company is expanding, not stagnant. Must meet at least 2 of the 5 thresholds below. |
+
+### C6 — Active Growth Signal Thresholds
+
+A company counts as "actively growing" if it meets **at least 2 of these 5 signals:**
+
+| Signal | What counts |
+|--------|------------|
+| **Hiring** | 5+ open roles on LinkedIn or Naukri in the last 6 months |
+| **Facility** | New plant, expansion, or capacity addition announced in the last 18 months |
+| **Certifications** | New regulatory approval or certification obtained in the last 2 years |
+| **Website** | Copyright current year or last year, active news/press section with updates |
+| **Financial** | Revenue growth visible in public filings (MCA, Tofler, RoC), or new export markets entered |
+
+1 signal = moderate. 2+ signals = strong. 0 signals = weak (likely stagnant — research further before including).
+
+---
+
+### Scoring — Federer Score (out of 100)
+
+Each criterion has a weight. Score each as Weak (0), Moderate (half the weight), or Strong (full weight).
+
+| # | Criterion | Weight | Weak (0) | Moderate (half) | Strong (full) |
+|---|-----------|--------|----------|-----------------|---------------|
+| C1 | Manufacturer | 10 | Trader/distributor/service company | Has production but primarily assembles or outsources key processes | Own plant, own product, in-house R&D-to-production pipeline |
+| C2 | India-based | 5 | No India operations | Sales/marketing office only | HQ or primary manufacturing in India |
+| C3 | Differentiated | 25 | Commodity product, no IP | Some technical depth but no patents/approvals | Patents, DSIR, USFDA/EU-GMP, proprietary products, "first/only/pioneer" |
+| C4 | Technical DM | 20 | Non-technical promoter, no engineering/science background | Gen-2 with formal education, or technical CTO but non-technical MD | Founder/MD is PhD, IIT/IISc, ex-ISRO/DRDO, scientist, or engineer with publications |
+| C5 | Growing sector | 20 | Declining or stagnant sector | Stable sector, no specific tailwinds | PLI eligible, China+1, Make-in-India, export tailwinds, government push |
+| C6 | Growth signals | 20 | No visible activity in 2 years | 1 signal from threshold table | 2+ signals from threshold table |
+
+**How to interpret the score:**
+
+| Score | Band | What it means |
+|-------|------|---------------|
+| 80-100 | **A — Strong Federer** | High-priority target. Include with confidence. |
+| 60-79 | **B — Probable Federer** | Good target. Include, note any caveats. |
+| 40-59 | **C — Borderline** | Research further. May have a hidden disqualifier. |
+| Below 40 | **D — Not ICP** | Do not include. Document why in your fail list. |
+
+**Example:** Ananth Technologies — C1: Strong (10), C2: Strong (5), C3: Strong (25), C4: Strong (20), C5: Strong (20), C6: Strong (20) = **100/100, A-band.** Textbook Federer.
+
+**Example:** Lazuline Biotech — C1: Moderate (5), C2: Strong (5), C3: Strong (25), C4: Strong (20), C5: Strong (20), C6: Moderate (10) = **85/100, A-band.** Strong fit despite small scale.
+
+Include the Federer Score in your CSV alongside the per-criterion Weak/Moderate/Strong ratings.
+
+---
 
 ### Auto-disqualify if:
 - Primarily a trader, distributor, or importer
