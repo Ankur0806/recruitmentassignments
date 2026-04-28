@@ -658,6 +658,6 @@ Two reference files are provided:
 
 1. **`data-model.ts`** — The actual TypeScript type definitions from our codebase. Every interface, enum, and field that exists in the backend. This is the source of truth for what data is available. You don't need to write code against it — it's here so you know exactly what you can render.
 
-2. **`mock-portfolio-data.json`** — A complete mock portfolio for one employee (Priya Menon, V2, March 2026). This is realistic data with a mix of wins and misses — not a perfect-score showcase. Your design must render this data.
+2. **`mock-portfolio-data.json`** — A complete mock portfolio for one employee (Rajan Iyer, V2 Production Planning Lead at a pharma company, March 2026). This is realistic data with a mix of wins and misses — not a perfect-score showcase. Your design must render this data.
 
 Use this data — don't invent your own numbers. The constraint is intentional: the design must work with the data the system actually produces.

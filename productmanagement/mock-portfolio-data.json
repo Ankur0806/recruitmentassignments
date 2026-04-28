@@ -1,8 +1,8 @@
 {
-  "portfolioId": "PF-2026-03-00847",
-  "uid": "PDGMS-EMP-00847",
+  "portfolioId": "PF-2026-03-00512",
+  "uid": "PDGMS-EMP-00512",
   "monthId": "2026-03",
-  "orgId": "ORG-KREATIVE-001",
+  "orgId": "ORG-VAYURA-001",
   "period": {
     "from": "2026-03-01",
     "to": "2026-03-31"
@@ -10,12 +10,12 @@
   "generatedAt": "2026-04-02T09:14:22.000Z",
 
   "employee": {
-    "name": "Priya Menon",
-    "role": "Program Coordinator — Schools Transformation",
-    "program": "Kreative Schools Initiative",
-    "organization": "Kreative Organics",
-    "joinedAt": "2024-06-15",
-    "tenureMonths": 21,
+    "name": "Rajan Iyer",
+    "role": "Production Planning Lead — Sterile Injectables",
+    "program": "Facility 3 Commercialization",
+    "organization": "Vayura Lifesciences",
+    "joinedAt": "2024-08-01",
+    "tenureMonths": 19,
     "avatarUrl": null
   },
 
@@ -23,69 +23,74 @@
     {
       "type": "executive_summary",
       "data": {
-        "compositeScore": 68,
+        "compositeScore": 71,
         "weekId": "2026-W13",
-        "paceStatus": "on_track",
+        "paceStatus": "ahead",
         "currentLevel": "V2",
-        "previousMonthScore": 62
+        "previousMonthScore": 64
       },
-      "narrative": "Priya had a strong March — her composite score moved from 62 to 68, the largest single-month jump since joining. Delivery was her standout area: she closed 14 of 18 assigned deliverables including the curriculum mapping matrix that had been pending since January. Two capability gaps remain — framework application is still below threshold, and process adoption dipped slightly as she focused on delivery over documentation. She's on track for V3 eligibility by Q1 2027."
+      "narrative": "Rajan had his strongest month since joining — composite score jumped from 64 to 71, driven by a breakthrough in Facility 3 batch validation. He closed 16 of 20 assigned deliverables, including the process validation protocol for the lyophilized injectable line that had been stuck in regulatory review since December. Framework application remains his gap area (52, below the 60 threshold), but his delivery and IP scores now exceed V3 requirements. He's tracking ahead of plan for V3 eligibility."
     },
     {
       "type": "contribution_highlights",
       "data": {
-        "ipCommitCount": 6,
+        "ipCommitCount": 7,
         "recentCommits": [
           {
-            "id": 2341,
-            "description": "Curriculum mapping matrix — aligned 4 boards (CBSE, ICSE, State, IB) to Kreative pedagogy framework",
-            "createdAt": "2026-03-08T14:22:00.000Z"
+            "id": 1847,
+            "description": "Process validation protocol — lyophilized injectable line (3 product families, 12 SKUs)",
+            "createdAt": "2026-03-05T10:30:00.000Z"
           },
           {
-            "id": 2355,
-            "description": "Teacher readiness assessment rubric — 5-level scoring across 8 competency areas",
-            "createdAt": "2026-03-12T11:05:00.000Z"
+            "id": 1862,
+            "description": "Batch record template — sterile fill-finish operations with in-process control checkpoints",
+            "createdAt": "2026-03-09T14:15:00.000Z"
           },
           {
-            "id": 2378,
-            "description": "School principal onboarding deck — 22 slides, used in 3 principal meetings",
-            "createdAt": "2026-03-18T16:30:00.000Z"
+            "id": 1879,
+            "description": "Deviation investigation SOP — root cause analysis workflow for OOS results in sterile manufacturing",
+            "createdAt": "2026-03-14T11:45:00.000Z"
           },
           {
-            "id": 2391,
-            "description": "Student engagement tracker template — weekly pulse for 6 pilot schools",
-            "createdAt": "2026-03-22T09:45:00.000Z"
+            "id": 1893,
+            "description": "Equipment qualification matrix — IQ/OQ/PQ status tracker for 14 critical equipment items in Facility 3",
+            "createdAt": "2026-03-18T09:20:00.000Z"
           },
           {
-            "id": 2402,
-            "description": "Monthly school visit report format — standardized across all coordinators",
-            "createdAt": "2026-03-25T13:10:00.000Z"
+            "id": 1905,
+            "description": "Environmental monitoring trend analysis — 6-month particulate and viable data for Grade A/B cleanrooms",
+            "createdAt": "2026-03-22T16:00:00.000Z"
           },
           {
-            "id": 2410,
-            "description": "Parent communication guidelines — WhatsApp message templates + escalation flow",
-            "createdAt": "2026-03-28T10:20:00.000Z"
+            "id": 1918,
+            "description": "Vendor qualification checklist — raw material and primary packaging supplier audit framework",
+            "createdAt": "2026-03-26T13:30:00.000Z"
+          },
+          {
+            "id": 1924,
+            "description": "Yield optimization report — identified 8% fill-weight variance in vial line 2, proposed nozzle recalibration",
+            "createdAt": "2026-03-29T10:10:00.000Z"
           }
         ],
-        "totalDeliverables": 18,
-        "completed": 14,
+        "totalDeliverables": 20,
+        "completed": 16,
         "inProgress": 2,
         "pendingQa": 1,
         "notStarted": 1
       },
-      "narrative": "Priya shipped 14 of 18 deliverables this month — her highest completion rate since the program started. The curriculum mapping matrix was the big win: it had been stuck in iterations since January and she drove it to completion by pulling in the academic advisory board for direct validation instead of waiting for written feedback. She also created 6 original work items, including the teacher readiness rubric that the L3 lead has now adopted as the standard assessment tool across all Kreative school programs."
+      "narrative": "Rajan shipped 16 of 20 deliverables — his highest completion rate since the Facility 3 program launched. The process validation protocol was the critical win: it had been cycling between regulatory affairs and QA since December, and Rajan broke the logjam by organizing a joint review session with both teams instead of sequential sign-offs. He created 7 original work items this month, including the deviation investigation SOP that the Head of Quality has now mandated as the standard across all three manufacturing facilities."
     },
     {
       "type": "capability_growth",
       "data": {
-        "deliveryRate": 78,
-        "ipScore": 72,
-        "kpiScore": 65,
-        "frameworkScore": 48,
-        "processScore": 54,
-        "ritualScore": 82
+        "deliveryRate": 80,
+        "ipScore": 74,
+        "kpiScore": 68,
+        "frameworkScore": 52,
+        "processScore": 58,
+        "ritualScore": 85
       },
-      "narrative": "Delivery (78) and engagement (82) are Priya's strongest areas — she ships consistently and participates in every organizational ritual. Original work (72) has been climbing since she started creating reusable templates. The gap is in framework application (48, below the 60 threshold) and process adoption (54). She tends to solve problems directly rather than referencing established frameworks — effective for delivery, but it means her solutions aren't always connected to the organization's methodology. This is the main growth area for V3 readiness."
+      "narrative": "Delivery (80) and engagement (85) are Rajan's strongest areas — he ships consistently and participates in every organizational ritual. Original work (74) has been climbing steadily since he started creating reusable SOPs and templates that other teams adopt. The gap is in framework application (52, below the 60 threshold) and process adoption (58). Rajan tends to solve production problems through direct technical troubleshooting rather than applying structured diagnostic frameworks — effective for immediate fixes, but it means root causes sometimes recur. This is the main growth area for V3 readiness."
     },
     {
       "type": "kpi_impact",
@@ -94,176 +99,180 @@
         "verifiedCount": 3,
         "details": [
           {
-            "kpiId": "KPI-KSI-001",
-            "label": "Schools Visited",
-            "unit": "schools",
-            "target": 12,
-            "actual": 9,
+            "kpiId": "KPI-F3C-001",
+            "label": "Batch Success Rate",
+            "unit": "percent",
+            "target": 92,
+            "actual": 88,
             "status": "miss",
             "verified": true
           },
           {
-            "kpiId": "KPI-KSI-002",
-            "label": "Teacher Training Sessions Conducted",
-            "unit": "sessions",
-            "target": 6,
-            "actual": 6,
-            "status": "hit",
-            "verified": true
-          },
-          {
-            "kpiId": "KPI-KSI-003",
-            "label": "Curriculum Modules Mapped",
-            "unit": "modules",
+            "kpiId": "KPI-F3C-002",
+            "label": "Equipment Qualifications Completed",
+            "unit": "items",
             "target": 8,
-            "actual": 11,
+            "actual": 10,
             "status": "hit",
             "verified": true
           },
           {
-            "kpiId": "KPI-KSI-004",
-            "label": "Parent Engagement Events",
-            "unit": "events",
-            "target": 4,
-            "actual": 2,
+            "kpiId": "KPI-F3C-003",
+            "label": "SOPs Drafted and Approved",
+            "unit": "documents",
+            "target": 5,
+            "actual": 7,
+            "status": "hit",
+            "verified": true
+          },
+          {
+            "kpiId": "KPI-F3C-004",
+            "label": "Deviation Closure Rate",
+            "unit": "percent",
+            "target": 90,
+            "actual": 78,
             "status": "miss",
             "verified": false
           },
           {
-            "kpiId": "KPI-KSI-005",
-            "label": "Student Assessment Baselines Collected",
-            "unit": "schools",
-            "target": 6,
-            "actual": 6,
+            "kpiId": "KPI-F3C-005",
+            "label": "Operator Training Batches Completed",
+            "unit": "batches",
+            "target": 4,
+            "actual": 4,
             "status": "hit",
             "verified": false
           }
         ]
       },
-      "narrative": "Hit 3 of 5 KPI targets. The curriculum mapping overperformance (11 vs 8 target) reflects the January backlog finally clearing. School visits came in at 9 vs 12 target — two schools postponed due to exam season and one principal was unreachable for 3 weeks (constraint ticket raised). Parent engagement events were the biggest miss: 2 of 4. Priya flagged that the parent event format needs redesign — attendance dropped 40% after the first event, suggesting the format isn't landing. This is honest feedback, not an excuse."
+      "narrative": "Hit 3 of 5 KPI targets. Equipment qualifications (10 vs 8 target) and SOP approvals (7 vs 5) both overperformed — Rajan front-loaded qualification work to clear the path for commercial batches in Q2. Batch success rate came in at 88% vs 92% target — two batches failed due to a particulate excursion in Cleanroom 3B that took 11 days to investigate and resolve (environmental monitoring identified a failing HEPA filter). Deviation closure rate (78% vs 90%) was the biggest miss: 4 deviations from January are still open pending root cause confirmation from the contract testing lab."
     },
     {
       "type": "constraint_patterns",
       "data": {
-        "totalConstraints": 7,
-        "resolved": 4,
+        "totalConstraints": 8,
+        "resolved": 5,
         "byType": {
           "budget": 1,
-          "talent": 0,
-          "internal_support": 3,
-          "assumptions": 1,
+          "talent": 1,
+          "internal_support": 2,
+          "assumptions": 2,
           "permissions": 2,
           "unspecified": 0
         },
         "topConstraints": [
           {
-            "ticketId": "CST-0334",
-            "label": "Principal of DPS Miyapur unreachable for 3 weeks — school visit and baseline collection blocked",
-            "type": "permissions",
-            "status": "resolved",
-            "resolvedAt": "2026-03-22T00:00:00.000Z"
-          },
-          {
-            "ticketId": "CST-0341",
-            "label": "Math manipulatives budget not approved — 4 schools waiting for materials",
-            "type": "budget",
-            "status": "open"
-          },
-          {
-            "ticketId": "CST-0347",
-            "label": "Academic advisory board response delayed by 12 days on curriculum matrix review",
-            "type": "internal_support",
-            "status": "resolved",
-            "resolvedAt": "2026-03-08T00:00:00.000Z"
-          },
-          {
-            "ticketId": "CST-0352",
-            "label": "Parent event venue approval requires HOD sign-off — process unclear",
-            "type": "permissions",
-            "status": "open"
-          },
-          {
-            "ticketId": "CST-0358",
-            "label": "Assumed pilot schools would have projectors — 3 of 6 do not",
+            "ticketId": "CST-0421",
+            "label": "HEPA filter replacement for Cleanroom 3B delayed — vendor lead time 6 weeks, 2 batches failed during wait",
             "type": "assumptions",
             "status": "resolved",
-            "resolvedAt": "2026-03-15T00:00:00.000Z"
+            "resolvedAt": "2026-03-19T00:00:00.000Z"
+          },
+          {
+            "ticketId": "CST-0428",
+            "label": "Contract testing lab turnaround on deviation root cause — 4 open deviations waiting 18+ days for results",
+            "type": "internal_support",
+            "status": "open"
+          },
+          {
+            "ticketId": "CST-0433",
+            "label": "Regulatory affairs sequential review cycle adding 3 weeks to every protocol approval",
+            "type": "permissions",
+            "status": "resolved",
+            "resolvedAt": "2026-03-05T00:00:00.000Z"
+          },
+          {
+            "ticketId": "CST-0439",
+            "label": "Second shift supervisor vacancy — production planning limited to single shift since February",
+            "type": "talent",
+            "status": "open"
+          },
+          {
+            "ticketId": "CST-0445",
+            "label": "Assumed Facility 3 compressed air system was qualified — discovered DQ/IQ incomplete during batch review",
+            "type": "assumptions",
+            "status": "resolved",
+            "resolvedAt": "2026-03-24T00:00:00.000Z"
           }
         ]
       },
-      "narrative": "7 constraints raised, 4 resolved. The biggest pattern: permissions and internal support (5 of 7). Priya is consistently blocked by approval chains — the math manipulatives budget has been pending for 6 weeks, and parent event venues require a sign-off process that nobody can clearly explain. The advisory board delay on curriculum review (12 days) was resolved when Priya switched to a direct validation approach — a good problem-solving instinct. The projector assumption was a planning miss that she caught early and worked around by switching to printed materials."
+      "narrative": "8 constraints raised, 5 resolved. Two patterns dominate: external dependencies (contract lab turnaround, vendor lead times) and approval bottlenecks (regulatory review cycles). The HEPA filter delay was the costliest — 2 failed batches and 11 days of investigation before the root cause was confirmed, all because replacement filters had a 6-week lead time and no safety stock. Rajan resolved the regulatory review bottleneck by switching from sequential to joint review sessions — a process improvement that now saves 3 weeks per protocol. The second shift supervisor vacancy is the most persistent constraint: single-shift operation since February is capping production throughput at 60% of Facility 3 capacity."
     },
     {
       "type": "career_trajectory",
       "data": {
-        "ladderId": "LADDER-PM-001",
+        "ladderId": "LADDER-MFG-001",
         "milestones": [
-          { "level": "V1", "targetDate": "2024-06-15" },
-          { "level": "V2", "targetDate": "2025-09-01" },
-          { "level": "V3", "targetDate": "2027-03-01" },
-          { "level": "V4", "targetDate": "2030-06-01" },
-          { "level": "V5", "targetDate": "2035-06-01" }
+          { "level": "V1", "targetDate": "2024-08-01" },
+          { "level": "V2", "targetDate": "2025-11-01" },
+          { "level": "V3", "targetDate": "2027-05-01" },
+          { "level": "V4", "targetDate": "2030-08-01" },
+          { "level": "V5", "targetDate": "2036-08-01" }
         ],
         "projectedNextLevel": "V3",
-        "projectedDate": "2027-04-15",
+        "projectedDate": "2027-02-15",
         "currentLevel": "V2",
-        "paceStatus": "on_track",
-        "monthsAtCurrentLevel": 7,
+        "paceStatus": "ahead",
+        "monthsAtCurrentLevel": 5,
         "gapDrivers": [
-          "Framework application score (48) below V3 threshold (60)",
-          "Process adoption score (54) below V3 threshold (60)"
+          "Framework application score (52) below V3 threshold (60)",
+          "Process adoption score (58) below V3 threshold (60)"
         ]
       },
-      "narrative": "Priya is on track for V3 (Program Lead) by Q1 2027 — projected April 2027, about one month behind the planned March 2027 target. The gap is capability, not contribution: her delivery and IP scores already exceed V3 thresholds, but framework application (48) and process adoption (54) are below the 60 minimum. If she brings both above 60 in the next 3–4 months, she'll be eligible on schedule. The recommendation: consciously apply and document framework usage in daily reports rather than solving problems ad-hoc."
+      "narrative": "Rajan is tracking ahead of plan for V3 (Program Lead) — projected February 2027, nearly 3 months ahead of the planned May 2027 target. His delivery and IP scores already exceed V3 thresholds, which is unusual for someone 5 months into V2. The gap is capability: framework application (52) and process adoption (58) both below the 60 minimum. If he consciously applies and documents structured frameworks in his daily work over the next 3-4 months — rather than defaulting to ad-hoc technical problem-solving — he'll be eligible well ahead of schedule."
     }
   ],
 
   "monthlyReportEnrichment": {
     "deliverableDetail": [
-      { "ticketId": "TKT-1201", "label": "Curriculum mapping matrix — CBSE alignment", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 480, "actualMinutes": 720 },
-      { "ticketId": "TKT-1202", "label": "Curriculum mapping matrix — ICSE alignment", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 340 },
-      { "ticketId": "TKT-1203", "label": "Curriculum mapping matrix — State board alignment", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 400 },
-      { "ticketId": "TKT-1204", "label": "Curriculum mapping matrix — IB alignment", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 480, "actualMinutes": 510 },
-      { "ticketId": "TKT-1205", "label": "Teacher readiness rubric v2", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 300, "actualMinutes": 280 },
-      { "ticketId": "TKT-1206", "label": "Principal onboarding deck", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 240, "actualMinutes": 200 },
-      { "ticketId": "TKT-1207", "label": "School visit report — DPS Miyapur", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 120, "actualMinutes": 90 },
-      { "ticketId": "TKT-1208", "label": "School visit report — Oakridge Bachupally", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 120, "actualMinutes": 110 },
-      { "ticketId": "TKT-1209", "label": "School visit report — Pallavi Model School", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 120, "actualMinutes": 130 },
-      { "ticketId": "TKT-1210", "label": "Student engagement tracker — pilot deployment", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 180, "actualMinutes": 160 },
-      { "ticketId": "TKT-1211", "label": "Parent communication templates", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 120, "actualMinutes": 90 },
-      { "ticketId": "TKT-1212", "label": "Monthly coordinator report format", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 180, "actualMinutes": 150 },
-      { "ticketId": "TKT-1213", "label": "Teacher training session — Batch 1 (12 teachers)", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 390 },
-      { "ticketId": "TKT-1214", "label": "Teacher training session — Batch 2 (8 teachers)", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 340 },
-      { "ticketId": "TKT-1215", "label": "Parent engagement event — Oakridge", "ticketType": "deliverable", "status": "pending_qa", "estimatedMinutes": 240, "actualMinutes": 280 },
-      { "ticketId": "TKT-1216", "label": "Baseline assessment — 3 remaining schools", "ticketType": "deliverable", "status": "in_progress", "estimatedMinutes": 360, "actualMinutes": null },
-      { "ticketId": "TKT-1217", "label": "Parent engagement event — Pallavi Model", "ticketType": "deliverable", "status": "in_progress", "estimatedMinutes": 240, "actualMinutes": null },
-      { "ticketId": "TKT-1218", "label": "Quarterly impact summary for Kreative leadership", "ticketType": "deliverable", "status": "not_started", "estimatedMinutes": 480, "actualMinutes": null }
+      { "ticketId": "TKT-3001", "label": "Process validation protocol — lyophilized injectable line", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 960, "actualMinutes": 1200 },
+      { "ticketId": "TKT-3002", "label": "Batch record template — sterile fill-finish", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 480, "actualMinutes": 420 },
+      { "ticketId": "TKT-3003", "label": "Deviation investigation SOP", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 380 },
+      { "ticketId": "TKT-3004", "label": "Equipment qualification matrix — 14 items", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 600, "actualMinutes": 540 },
+      { "ticketId": "TKT-3005", "label": "IQ/OQ execution — autoclave unit 3", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 480, "actualMinutes": 510 },
+      { "ticketId": "TKT-3006", "label": "IQ/OQ execution — vial washing machine", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 480, "actualMinutes": 440 },
+      { "ticketId": "TKT-3007", "label": "PQ execution — lyophilizer cycle development", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 720, "actualMinutes": 780 },
+      { "ticketId": "TKT-3008", "label": "Environmental monitoring trend analysis — 6 months", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 300 },
+      { "ticketId": "TKT-3009", "label": "Cleanroom 3B particulate excursion investigation", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 240, "actualMinutes": 480 },
+      { "ticketId": "TKT-3010", "label": "Vendor qualification checklist — raw materials", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 300, "actualMinutes": 270 },
+      { "ticketId": "TKT-3011", "label": "Vendor qualification checklist — primary packaging", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 300, "actualMinutes": 260 },
+      { "ticketId": "TKT-3012", "label": "Yield optimization report — vial line 2", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 240, "actualMinutes": 210 },
+      { "ticketId": "TKT-3013", "label": "Operator training batch 1 — aseptic filling", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 380 },
+      { "ticketId": "TKT-3014", "label": "Operator training batch 2 — lyophilization loading", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 350 },
+      { "ticketId": "TKT-3015", "label": "Operator training batch 3 — CIP/SIP procedures", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 340 },
+      { "ticketId": "TKT-3016", "label": "Operator training batch 4 — environmental monitoring sampling", "ticketType": "deliverable", "status": "delivered", "estimatedMinutes": 360, "actualMinutes": 370 },
+      { "ticketId": "TKT-3017", "label": "Compressed air system DQ/IQ completion", "ticketType": "deliverable", "status": "pending_qa", "estimatedMinutes": 480, "actualMinutes": 520 },
+      { "ticketId": "TKT-3018", "label": "Media fill protocol — 3 production lines", "ticketType": "deliverable", "status": "in_progress", "estimatedMinutes": 720, "actualMinutes": null },
+      { "ticketId": "TKT-3019", "label": "Stability study protocol — first 3 commercial SKUs", "ticketType": "deliverable", "status": "in_progress", "estimatedMinutes": 600, "actualMinutes": null },
+      { "ticketId": "TKT-3020", "label": "Facility 3 commercial readiness assessment for Q2 review", "ticketType": "deliverable", "status": "not_started", "estimatedMinutes": 960, "actualMinutes": null }
     ],
     "capabilityDetail": {
       "frameworks": [
-        { "labelId": "FW-001", "label": "First Principles Thinking", "quantity": 4, "description": "Applied during curriculum matrix design — decomposed 4 board standards into atomic learning outcomes before mapping" },
-        { "labelId": "FW-003", "label": "PDCA Cycle", "quantity": 2, "description": "Used in teacher training iteration — Plan (session design) → Do (batch 1) → Check (feedback) → Act (redesign for batch 2)" },
-        { "labelId": "FW-007", "label": "Stakeholder Mapping", "quantity": 1, "description": "Mapped decision-makers at DPS Miyapur to resolve the principal unreachable constraint" }
+        { "labelId": "FW-001", "label": "First Principles Thinking", "quantity": 3, "description": "Applied during HEPA filter investigation — decomposed cleanroom particulate data to isolate the failing filter before vendor confirmed" },
+        { "labelId": "FW-003", "label": "PDCA Cycle", "quantity": 2, "description": "Used in operator training iteration — Plan (session design) → Do (batch 1) → Check (competency assessment) → Act (adjust practical-to-theory ratio for batch 2)" },
+        { "labelId": "FW-012", "label": "5 Why Analysis", "quantity": 1, "description": "Applied to vial line 2 fill-weight variance — traced 8% variance to nozzle wear pattern, not operator technique as initially assumed" }
       ],
       "processes": [
-        { "labelId": "PR-001", "label": "Daily Plan Submission", "quantity": 22, "description": "Submitted 22 of 23 working days" },
-        { "labelId": "PR-003", "label": "Ticket Lifecycle Update", "quantity": 18, "description": "Updated ticket status same-day for 18 of 18 completed deliverables" },
-        { "labelId": "PR-005", "label": "Weekly Report Submission", "quantity": 4, "description": "All 4 weekly reports submitted on time" }
+        { "labelId": "PR-001", "label": "Daily Plan Submission", "quantity": 21, "description": "Submitted 21 of 23 working days" },
+        { "labelId": "PR-003", "label": "Ticket Lifecycle Update", "quantity": 16, "description": "Updated ticket status same-day for 16 of 16 completed deliverables" },
+        { "labelId": "PR-005", "label": "Weekly Report Submission", "quantity": 4, "description": "All 4 weekly reports submitted on time" },
+        { "labelId": "PR-008", "label": "Change Control Documentation", "quantity": 3, "description": "Raised 3 change controls for equipment modifications — all with impact assessment completed before implementation" }
       ],
       "rituals": [
-        { "labelId": "RT-001", "label": "Daily Standup", "attended": 21, "total": 23 },
+        { "labelId": "RT-001", "label": "Daily Standup", "attended": 22, "total": 23 },
         { "labelId": "RT-002", "label": "Weekly Review", "attended": 4, "total": 4 },
         { "labelId": "RT-003", "label": "Monthly Retrospective", "attended": 1, "total": 1 },
-        { "labelId": "RT-004", "label": "LDI Session", "attended": 2, "total": 2 }
+        { "labelId": "RT-004", "label": "LDI Session", "attended": 2, "total": 2 },
+        { "labelId": "RT-005", "label": "Batch Review Meeting", "attended": 8, "total": 9 }
       ]
     },
     "timeDistribution": {
-      "operational": 42,
-      "research": 18,
-      "deepWork": 28,
-      "coordination": 22,
-      "meetings": 16,
-      "planning": 10
+      "operational": 48,
+      "research": 14,
+      "deepWork": 32,
+      "coordination": 24,
+      "meetings": 18,
+      "planning": 12
     }
   }
 }
