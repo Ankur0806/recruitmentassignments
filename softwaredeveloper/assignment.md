@@ -115,6 +115,12 @@ Build a web app with the following:
 | **No deployment required** | Everything runs locally. `README.md` must include setup instructions so we can run it. |
 | **Git history** | We will look at your commit history. Incremental commits that show your thinking process. One giant commit = instant rejection. |
 
+### Tech Stack
+
+**For this assignment:** Use whatever you're comfortable with. Any frontend framework, any backend language, any database (or none). We care about the output, not the stack.
+
+**At DeepThought:** If hired, you'd work with our production stack — **Next.js, Tailwind CSS, MongoDB, PostgreSQL, Redis, Prisma**. Familiarity with any of these is a plus but not required for the assignment. We'd rather see a well-built app in a stack you know than a broken app in a stack you're learning for the first time.
+
 ### Getting Started with Ollama
 
 Ollama runs LLMs locally on your machine. No API key, no cloud, no cost.
