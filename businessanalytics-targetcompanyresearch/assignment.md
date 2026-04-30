@@ -327,7 +327,7 @@ We are evaluating:
 
 ## Logistics
 
-- **Time:** You have 5 days from receiving this assignment.
+- **Time:** You have 48 hours from receiving this assignment.
 - **Tools:** Use whatever tools you want — AI, databases, LinkedIn, industry directories, government portals. We care about the output quality, not the method purity.
 - **Questions:** If something is unclear, make a reasonable assumption and state it. Don't wait for clarification.
 

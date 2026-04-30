@@ -165,7 +165,7 @@ The difference between community development and sales is the MD's feeling after
 
 ## Logistics
 
-- **Time:** You have 3 days from receiving this assignment.
+- **Time:** You have 48 hours from receiving this assignment.
 - **Tools:** Use whatever you want to understand Sciensation and plan your approach. The voice notes prove whether you internalized it.
 - **Voice notes:** Record on your phone (WhatsApp-style). Don't over-produce. We want to hear you think, not a studio recording.
 - **Questions:** If something is unclear, make a reasonable assumption and state it.

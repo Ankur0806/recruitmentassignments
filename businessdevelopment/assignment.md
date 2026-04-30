@@ -158,7 +158,7 @@ Not polished. Not rehearsed. Serious. There's a difference between someone who s
 
 ## Logistics
 
-- **Time:** You have 3 days from receiving this assignment.
+- **Time:** You have 48 hours from receiving this assignment.
 - **Tools:** Use whatever you want to understand the product and plan your approach. The voice notes prove whether you internalized it.
 - **Voice notes:** Record on your phone (WhatsApp-style). Don't over-produce. We want to hear you think on your feet, not a studio recording.
 - **Questions:** If something is unclear, make a reasonable assumption and state it.

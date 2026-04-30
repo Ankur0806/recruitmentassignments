@@ -221,7 +221,7 @@ CASE 3: [repeat same structure]
 
 ## Logistics
 
-- **Time:** You have 5 days from receiving this assignment.
+- **Time:** You have 48 hours from receiving this assignment.
 - **Tools:** Use whatever you want for analysis. AI is fine for exploring ideas — but the walkthrough must be your own voice and your own reasoning.
 - **Questions:** If something is unclear, make a reasonable assumption and state it.
 
