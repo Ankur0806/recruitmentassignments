@@ -237,7 +237,7 @@ Your `README.md` is the first thing we read. It should include:
 
 ## Logistics
 
-- **Time:** You have 7 days from receiving this assignment.
+- **Time:** You have 48 hours from receiving this assignment.
 - **Tools:** Use whatever you want — AI coding assistants, boilerplate generators, component libraries. The videos prove whether you understand what you built.
 - **Ollama:** Free, runs locally, no API key needed. Download from [ollama.com](https://ollama.com). We recommend starting with `llama3.2` or `mistral` — small enough to run on most laptops.
 - **Questions:** If something is unclear, make a reasonable assumption and state it in your README.
